@@ -45,3 +45,6 @@
 - We could seek a better way to define the churn.
 - We could also build recommendation systems based on the song_type.
 - A large fluctution was found in the Iphone users. Therefore we could improve the Iphone app such as API, latency to improve the user experience.
+
+## Summry
+This is a good project to practice the data science skills. The data is from real life and I learned some ways to process the data before feeding it to the models. The result could provide insights for improving the retention rate and implementing some recommendation system into the product, as well as improving the app for better user experience.
